@@ -30,7 +30,7 @@ fn setup_macos(handle: &AppHandle) {
       name: Some("Open Video Downloader".into()),
       copyright: Some("© Jelle Glebbeek and contributors".into()),
       license: Some("GNU Affero General Public License v3.0".into()),
-      website: Some("https://jely2002.github.io/youtube-dl-gui/".into()),
+      website: Some("https://ZohanZaheer.github.io/youtube-dl-gui/".into()),
       ..Default::default()
     }))
     .separator()

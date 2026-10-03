@@ -3,7 +3,7 @@
   "productName": "Open Video Downloader",
   "mainBinaryName": "open-video-downloader",
   "version": "3.2.1",
-  "identifier": "com.jelleglebbeek.youtube-dl-gui",
+  "identifier": "com.csofts.youtube-dl-gui",
   "build": {
     "beforeDevCommand": "npm run build:isolation && npm run dev",
     "devUrl": "http://localhost:1420",
@@ -79,9 +79,9 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDNBRTI0NDIwNzRDQUIzRUMKUldUc3M4cDBJRVRpT21CaVE1VmRZQ3pLSGZKb2F3OGRkM2ZCYXEyYStUQ0UyNnJ0aDBKMXh3eU4K",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEIxMzgzMUZCREJBMjY2MjcKUldRblpxTGIrekU0c1ErVytZalVValVTL3p3NnVzMG8vUGlpUjZZVWkwVEhDMzMzUDU4MnBqSGwK",
       "endpoints": [
-        "https://github.com/jely2002/youtube-dl-gui/releases/latest/download/latest.json"
+        "https://github.com/ZohanZaheer/youtube-dl-gui/releases/latest/download/latest.json"
       ],
       "windows": {
         "installMode": "passive"
